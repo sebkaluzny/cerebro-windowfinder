@@ -1,6 +1,10 @@
 {
   "name": "cerebro-windowfinder",
   "version": "0.1.0",
+  "author": {
+    "name": "Sebastian K",
+    "email": "skaluzny12@gmail.com"
+  },
   "dependencies": {
     "cerebro-tools": "^0.1.8",
     "cerebro-ui": "^0.0.16"
