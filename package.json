@@ -1,6 +1,9 @@
 {
   "name": "cerebro-windowfinder",
   "version": "0.1.1",
+  "description": "Cerebro plugin for finding active window.",
+  "license": "MIT",
+  "repository": "sebkaluzny/cerebro-windowfinder",
   "author": {
     "name": "Sebastian K",
     "email": "skaluzny12@gmail.com"
