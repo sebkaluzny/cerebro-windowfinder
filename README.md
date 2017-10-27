@@ -1,4 +1,4 @@
-# cerebro-find-active-window
+# cerebro-windowfinder
 
 > Basic plugin for search and focus window with [Cerebro app](http://www.cerebroapp.com)
 
